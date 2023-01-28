@@ -1,0 +1,2 @@
+練習編寫bash command及SQL語法,
+讓使用者能透過shell與資料庫互動
